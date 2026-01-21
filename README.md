@@ -39,6 +39,7 @@ Companies managing costly LLM pipelines (OpenAI, Anthropic, Hugging Face).
 SaaS platforms leveraging LLMs for content generation (Notion AI, Jasper, Grammarly).
 Research labs needing reusable context in simulations, mathematics, or optimization.
 Any AI-heavy workflow where time, computation, and context retention matter.
+
 Getting Started
 Clone the repository:
 Copiar código
