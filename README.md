@@ -1,6 +1,6 @@
 # 🌊 Gap Flow Project
 
-> **"Don't waste the logic. Recycle the sugar."**
+> **"Don't waste the logic. Recycle the system to AI."**
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxxx-blue.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
