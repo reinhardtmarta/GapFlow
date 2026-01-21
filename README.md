@@ -46,3 +46,8 @@ Bash
 git clone https://github.com/reinhardtmarta/GapFlow.git
 Open GAPFlow_project.ipynb in Google Colab or Jupyter Notebook.
 Run the interactive cells to see the “Logical Sugar” recycled in real time.
+## Future Enhancements
+Integration with real LLM outputs.
+Embedding-based semantic retrieval for similar contexts.
+Persistent cloud storage for multi-session reuse.
+Automated metrics dashboards for efficiency tracking.
