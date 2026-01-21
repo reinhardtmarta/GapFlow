@@ -42,7 +42,6 @@ Any AI-heavy workflow where time, computation, and context retention matter.
 
 Getting Started
 Clone the repository:
-Copiar código
 Bash
 git clone https://github.com/reinhardtmarta/GapFlow.git
 Open GAPFlow_project.ipynb in Google Colab or Jupyter Notebook.
