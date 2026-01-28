@@ -3,7 +3,6 @@
 > **"Don't waste the logic. Recycle the system to AI."**
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18331181-blue.svg)](https://doi.org/10.5281/zenodo.18331181)
-![License: APACHE 2.0]
 ![Field: AI Infrastructure](https://img.shields.io/badge/Field-AI%20Infrastructure-green.svg)
 
 
